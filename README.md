@@ -19,9 +19,13 @@ This project is a simple AI-powered chatbot built using PHP, JavaScript, and the
 ##  📂 Project Structure
 
 ├── index.html         # Frontend UI
+
 ├── script.js          # Frontend script
+
 ├── style.css          # Stylesheet for chatbot UI
+
 ├── chatbot.php        # Backend API for chatbot
+
 ├── README.md          # Documentation
 
 ## 🛠️ Installation & Setup
